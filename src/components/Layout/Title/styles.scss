@@ -1,0 +1,11 @@
+@use "../../../styles/Settings/variables" as *;
+
+.layout-title {
+  font-size: $font-size-large;
+  color: $color-primary;
+  font-weight: 500;
+
+  &.-secondary {
+    color: $color-bland;
+  }
+}

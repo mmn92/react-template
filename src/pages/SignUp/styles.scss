@@ -1,0 +1,14 @@
+@use "../../styles/Settings/variables" as *;
+
+.main-content {
+  width: 85%;
+  padding-top: $spacing-large;
+
+  > .layout-title {
+    margin-bottom: $spacing-big;
+  }
+
+  > .layout-text {
+    max-width: 75%;
+  }
+}

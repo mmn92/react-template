@@ -1,0 +1,11 @@
+@use "../../../styles/Settings/variables" as *;
+
+.layout-text {
+  font-size: $font-size-default;
+  color: $color-detail;
+  text-align: justify;
+
+  &.-secondary {
+    color: $color-auxiliary;
+  }
+}
