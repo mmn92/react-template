@@ -3,3 +3,15 @@ body {
   height: 100vh;
   font-family: "Fira Code", monospace;
 }
+
+a,
+a:active {
+  text-decoration: none;
+}
+
+input[type="text"],
+input[type="password"] {
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 8px 16px;
+}
