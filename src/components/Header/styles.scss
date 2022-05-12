@@ -8,4 +8,15 @@
   font-size: $font-size-xlarge;
   display: flex;
   align-items: center;
+
+  .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    > .logout {
+      font-size: $font-size-default;
+      color: $color-detail;
+    }
+  }
 }
