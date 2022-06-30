@@ -1,8 +1,17 @@
-# Getting Started with Create React App
+# react-template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was create with the intent of grouping common tools used in a React project.
 
-## Available Scripts
+For now this project contains:
+
+- Routing with redirects, public and protected routes. [react-router-dom](https://reactrouter.com/docs/en/v6/getting-started/overview)
+- Context api used for auth control. [React Context](https://reactjs.org/docs/context.html)
+- Data fetching using native fetch and Axios lib. [Axios](https://github.com/axios/axios)
+- Styling using Sass and applying ITCSS folder structure. [Sass](https://sass-lang.com/) [ITCSS](https://developer.helpscout.com/seed/glossary/itcss/)
+- Some examples of reusable layout components
+
+The initial idea for this project was to provide simple and quick examples for to be used as reference in React projects.
+This project is still in progress. After all the planned examples are implemented more complex subjects may be included.
 
 In the project directory, you can run:
 
