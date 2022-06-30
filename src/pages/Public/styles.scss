@@ -12,3 +12,19 @@
     max-width: 75%;
   }
 }
+
+.fetch-content {
+  > .buttons {
+    margin-top: $spacing-big;
+    display: flex;
+    justify-content: space-around;
+    max-width: 50%;
+  }
+
+  > .columns {
+    margin-top: $spacing-big;
+    display: flex;
+    justify-content: space-around;
+    max-width: 50%;
+  }
+}
