@@ -1,6 +1,6 @@
 # react-template
 
-This project was create with the intent of grouping common tools used in a React project.
+This project was created with the intent of grouping common tools used in a React project.
 
 For now this project contains:
 
@@ -10,7 +10,7 @@ For now this project contains:
 - Styling using Sass and applying ITCSS folder structure. [Sass](https://sass-lang.com/) [ITCSS](https://developer.helpscout.com/seed/glossary/itcss/)
 - Some examples of reusable layout components
 
-The initial idea for this project was to provide simple and quick examples for to be used as reference in React projects.
+The initial idea for this project was to provide simple and quick examples to be used as reference in React projects.
 This project is still in progress. After all the planned examples are implemented more complex subjects may be included.
 
 In the project directory, you can run:
